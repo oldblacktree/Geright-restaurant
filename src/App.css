@@ -1,4 +1,14 @@
-.section__padding {
+.p__opensans {
+  font-family: var(--font-alt);
+  color: var(--color-white);
+  font-weight: 400;
+  letter-spacing: 0.04rem;
+  text-transform: capitalize;
+  line-height: 1.75rem;
+  font-size: 1rem;
+}
+
+/* .section__padding {
   padding: 4rem 6rem;
 }
 
@@ -174,4 +184,4 @@
     font-size: 45px;
     line-height: 70px;
   }
-}
+} */
