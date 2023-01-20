@@ -1,8 +1,9 @@
-import React from 'react';
+import images from "../../constants/images";
 
-const SubHeading = () => (
+const SubHeading = ({title}) => (
   <div>
-    SubHeading
+    <p className="p-cormorant">{title}</p>
+    <img src={images.spoon} alt="spoon" className="spoon-img" />
   </div>
 );
 
