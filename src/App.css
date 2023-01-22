@@ -84,7 +84,7 @@
     line-height: 3.1rem;
   }
 
-  .headtext__cormorant {
+  .p-headtext {
     font-size: 9.4rem;
     line-height: 13.1rem;
   }
@@ -146,33 +146,3 @@
     line-height: 4.4rem;
   }
 }
-/*
-.app__wrapper_info {
-  flex: 1;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  flex-direction: column;
-}
-
-.app__wrapper_img {
-  flex: 1;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  margin-left: 2rem;
-}
-
-.app__wrapper_img-reverse {
-  justify-content: flex-start;
-  margin-right: 2rem;
-}
-
-.app__wrapper_img img {
-  width: 80%;
-}
-
-} */
