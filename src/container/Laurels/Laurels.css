@@ -1,0 +1,57 @@
+.awards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.awards__img {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.awards__img img {
+  width: 80%;
+}
+.awards__info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.awards__list {
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  margin-top: 45px;
+}
+
+.awards__list-item {
+  display: flex;
+  align-items: center;
+}
+.awards__list-item img {
+  width: 80px;
+}
+.awards__list-item-info {
+  margin-left: 25px;
+}
+.awards__list-item-info .awards__list-item-name {
+  color: var(--color-golden);
+  margin-bottom: 10px;
+}
+.awards__list-item-info .awards__list-item-description {
+  color: var(--color-grey);
+}
+
+@media screen and (max-width: 1150px) {
+  .awards {
+    flex-direction: column;
+  }
+  .awards__img {
+    margin-top: 45px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .awards__list-item img {
+    width: 60px;
+  }
+}
