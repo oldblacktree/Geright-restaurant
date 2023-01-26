@@ -1,0 +1,51 @@
+.find-us {
+  display: flex;
+  align-items: center;
+} 
+.find-us__info {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.find-us__info h2 {
+  margin-bottom: 60px;
+}
+.find-us__address {
+  color: var(--color-grey);
+}
+.find-us__work-hours-heading {
+  color: var(--color-golden);
+}
+.find-us__button {
+  margin-top: 60px;
+}
+.find-us__work-hours-item {
+  margin: 15px 0;
+}
+.find-us__work-hours {
+  margin-top: 30px;
+}
+.find-us__img {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+.find-us__img img {
+  width: 80%;
+}
+
+@media screen and (max-width: 1150px) {
+  .find-us {
+    flex-direction: column;
+  }
+
+  .find-us__img  {
+    margin: 70px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .find-us__img img {
+    width: 100%;
+}
+}
