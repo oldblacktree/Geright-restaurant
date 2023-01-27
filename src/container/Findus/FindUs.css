@@ -1,7 +1,7 @@
 .find-us {
   display: flex;
   align-items: center;
-} 
+}
 .find-us__info {
   display: flex;
   flex: 1;
@@ -39,7 +39,7 @@
     flex-direction: column;
   }
 
-  .find-us__img  {
+  .find-us__img {
     margin: 70px 0 0 0;
   }
 }
@@ -47,5 +47,5 @@
 @media screen and (max-width: 450px) {
   .find-us__img img {
     width: 100%;
-}
+  }
 }

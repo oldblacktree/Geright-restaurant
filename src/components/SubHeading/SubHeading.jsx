@@ -1,6 +1,6 @@
-import { images } from '../../constants'
+import { images } from "../../constants";
 
-const SubHeading = ({title}) => (
+const SubHeading = ({ title }) => (
   <div>
     <p className="p-cormorant">{title}</p>
     <img src={images.spoon} alt="spoon" className="spoon-img" />

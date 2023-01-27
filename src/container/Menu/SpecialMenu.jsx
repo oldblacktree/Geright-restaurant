@@ -4,7 +4,7 @@ import { SubHeading, MenuItem } from "../../components";
 import { GiWashingMachine } from "react-icons/gi";
 
 const SpecialMenu = () => (
-  <div className="app__special-menu flex-center section-padding">
+  <div className="app__special-menu flex-center section-padding" id="menu">
     <div className="app__special-menu-title">
       <SubHeading title="Menu that fits you palatte" />
       <h2 className="p-headtext">Today’s special</h2>
