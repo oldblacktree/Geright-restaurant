@@ -44,7 +44,14 @@ const Navbar = () => {
           onClick={() => setToggleMenu(true)}
         />
         {toggleMenu && (
-          <div className="app__navbar-smallscreen-overlay slide-bottom ">
+          <div
+            className="app__navbar-smallscreen-overlay slide-bottom "
+            onClick={(e) => {
+              if (e.target.tagName === "A") {
+                setToggleMenu(false);
+              }
+            }}
+          >
             <MdOutlineRestaurantMenu
               className="overlay__close"
               onClick={() => setToggleMenu(false)}
