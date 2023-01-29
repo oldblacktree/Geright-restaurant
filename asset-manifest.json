@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/Geright-restaurant/static/css/main.406355ce.css",
-    "main.js": "/Geright-restaurant/static/js/main.5d52af58.js",
+    "main.css": "/Geright-restaurant/static/css/main.9e412375.css",
+    "main.js": "/Geright-restaurant/static/js/main.912db383.js",
     "static/media/meal.mp4": "/Geright-restaurant/static/media/meal.9a84c5a98b5fc8ccced3.mp4",
-    "static/media/findus.png": "/Geright-restaurant/static/media/findus.8751e5a6019a324a390e.png",
-    "static/media/welcome.png": "/Geright-restaurant/static/media/welcome.f1c8f886513cf3c47dba.png",
-    "static/media/laurels.png": "/Geright-restaurant/static/media/laurels.bf7d94576cf38ad60b7e.png",
-    "static/media/chef.png": "/Geright-restaurant/static/media/chef.b3b1de0fc1c439634b65.png",
-    "static/media/bg.png": "/Geright-restaurant/static/media/bg.79a748c653e47ffc2f8f.png",
-    "static/media/menu.png": "/Geright-restaurant/static/media/menu.8ecaaf80fad7640e45f8.png",
-    "static/media/gallery03.png": "/Geright-restaurant/static/media/gallery03.ad521efe24a0312a8543.png",
-    "static/media/gallery04.png": "/Geright-restaurant/static/media/gallery04.72270cd1044dd0487749.png",
-    "static/media/gallery02.png": "/Geright-restaurant/static/media/gallery02.d4b96ee8eb8ad0811b4a.png",
-    "static/media/gallery01.png": "/Geright-restaurant/static/media/gallery01.6a718f9996e0f8e33abd.png",
-    "static/media/knife.png": "/Geright-restaurant/static/media/knife.d0ee6985d7f3b6f71cbc.png",
+    "static/media/laurels.webp": "/Geright-restaurant/static/media/laurels.27a73bf3b4140f2615bf.webp",
+    "static/media/welcome.webp": "/Geright-restaurant/static/media/welcome.0283461d8404d1bf1598.webp",
+    "static/media/findus.webp": "/Geright-restaurant/static/media/findus.0dc00a9f831af10788b5.webp",
+    "static/media/menu.webp": "/Geright-restaurant/static/media/menu.704924ade0f343819006.webp",
+    "static/media/gallery03.webp": "/Geright-restaurant/static/media/gallery03.41f2aef6a486c756b523.webp",
+    "static/media/bg.webp": "/Geright-restaurant/static/media/bg.11181db5c0b9a375022b.webp",
+    "static/media/gallery04.webp": "/Geright-restaurant/static/media/gallery04.7e3919220fa622790866.webp",
+    "static/media/gallery02.webp": "/Geright-restaurant/static/media/gallery02.946ba3f3748b00bd4cfb.webp",
+    "static/media/chef.webp": "/Geright-restaurant/static/media/chef.e7bb64732bf88724a854.webp",
+    "static/media/gallery01.webp": "/Geright-restaurant/static/media/gallery01.adef2ed6555b2732988c.webp",
+    "static/media/knife.webp": "/Geright-restaurant/static/media/knife.01905dd8d7f03e80031c.webp",
+    "static/media/G.webp": "/Geright-restaurant/static/media/G.4da90e30bc8aca2212fa.webp",
+    "static/media/sign.webp": "/Geright-restaurant/static/media/sign.27d2389ae99507eee194.webp",
+    "static/media/award05.webp": "/Geright-restaurant/static/media/award05.786676811293c2896e48.webp",
+    "static/media/award02.webp": "/Geright-restaurant/static/media/award02.c00ecaae3ae83f42de29.webp",
+    "static/media/award03.webp": "/Geright-restaurant/static/media/award03.6f432c3ee181d05653c8.webp",
+    "static/media/award01.webp": "/Geright-restaurant/static/media/award01.eb356209ea62c1fc0db6.webp",
     "index.html": "/Geright-restaurant/index.html",
     "static/media/spoon.svg": "/Geright-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.406355ce.css.map": "/Geright-restaurant/static/css/main.406355ce.css.map",
-    "main.5d52af58.js.map": "/Geright-restaurant/static/js/main.5d52af58.js.map"
+    "main.9e412375.css.map": "/Geright-restaurant/static/css/main.9e412375.css.map",
+    "main.912db383.js.map": "/Geright-restaurant/static/js/main.912db383.js.map"
   },
   "entrypoints": [
-    "static/css/main.406355ce.css",
-    "static/js/main.5d52af58.js"
+    "static/css/main.9e412375.css",
+    "static/js/main.912db383.js"
   ]
 }
