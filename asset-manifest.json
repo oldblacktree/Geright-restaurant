@@ -1,34 +1,26 @@
 {
   "files": {
-    "main.css": "/Geright-restaurant/static/css/main.67043d14.css",
-    "main.js": "/Geright-restaurant/static/js/main.7e303440.js",
-    "static/media/meal.mp4": "/Geright-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
-    "static/media/bg.png": "/Geright-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
-    "static/media/welcome.png": "/Geright-restaurant/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/Geright-restaurant/static/media/findus.585c393ccd3671513743.png",
-    "static/media/laurels.png": "/Geright-restaurant/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/chef.png": "/Geright-restaurant/static/media/chef.02d6c5b61bfdc70303b4.png",
-    "static/media/menu.png": "/Geright-restaurant/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/gallery04.png": "/Geright-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/Geright-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/Geright-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/Geright-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
-    "static/media/knife.png": "/Geright-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
-    "static/media/overlaybg.png": "/Geright-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
-    "static/media/G.png": "/Geright-restaurant/static/media/G.b571eb82e589ec305ec9.png",
-    "static/media/logo.png": "/Geright-restaurant/static/media/logo.0286194c03de0a90dac9.png",
-    "static/media/award02.png": "/Geright-restaurant/static/media/award02.8bbdd51499739653b003.png",
-    "static/media/award05.png": "/Geright-restaurant/static/media/award05.48a7f5206184009dcb29.png",
-    "static/media/award01.png": "/Geright-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
-    "static/media/award03.png": "/Geright-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
-    "static/media/sign.png": "/Geright-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "main.css": "/Geright-restaurant/static/css/main.406355ce.css",
+    "main.js": "/Geright-restaurant/static/js/main.5d52af58.js",
+    "static/media/meal.mp4": "/Geright-restaurant/static/media/meal.9a84c5a98b5fc8ccced3.mp4",
+    "static/media/findus.png": "/Geright-restaurant/static/media/findus.8751e5a6019a324a390e.png",
+    "static/media/welcome.png": "/Geright-restaurant/static/media/welcome.f1c8f886513cf3c47dba.png",
+    "static/media/laurels.png": "/Geright-restaurant/static/media/laurels.bf7d94576cf38ad60b7e.png",
+    "static/media/chef.png": "/Geright-restaurant/static/media/chef.b3b1de0fc1c439634b65.png",
+    "static/media/bg.png": "/Geright-restaurant/static/media/bg.79a748c653e47ffc2f8f.png",
+    "static/media/menu.png": "/Geright-restaurant/static/media/menu.8ecaaf80fad7640e45f8.png",
+    "static/media/gallery03.png": "/Geright-restaurant/static/media/gallery03.ad521efe24a0312a8543.png",
+    "static/media/gallery04.png": "/Geright-restaurant/static/media/gallery04.72270cd1044dd0487749.png",
+    "static/media/gallery02.png": "/Geright-restaurant/static/media/gallery02.d4b96ee8eb8ad0811b4a.png",
+    "static/media/gallery01.png": "/Geright-restaurant/static/media/gallery01.6a718f9996e0f8e33abd.png",
+    "static/media/knife.png": "/Geright-restaurant/static/media/knife.d0ee6985d7f3b6f71cbc.png",
     "index.html": "/Geright-restaurant/index.html",
     "static/media/spoon.svg": "/Geright-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.67043d14.css.map": "/Geright-restaurant/static/css/main.67043d14.css.map",
-    "main.7e303440.js.map": "/Geright-restaurant/static/js/main.7e303440.js.map"
+    "main.406355ce.css.map": "/Geright-restaurant/static/css/main.406355ce.css.map",
+    "main.5d52af58.js.map": "/Geright-restaurant/static/js/main.5d52af58.js.map"
   },
   "entrypoints": [
-    "static/css/main.67043d14.css",
-    "static/js/main.7e303440.js"
+    "static/css/main.406355ce.css",
+    "static/js/main.5d52af58.js"
   ]
 }
